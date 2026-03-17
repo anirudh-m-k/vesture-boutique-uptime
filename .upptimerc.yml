@@ -5,6 +5,10 @@ repo: vesture-boutique-uptime # The name of this repository
 sites:
   - name: Vesture Boutique
     url: https://vestureboutique.dpdns.org/login
+
+notifications:
+  - type: discord
+    webhook: ${{ secrets.DISCORD_WEBHOOK }}
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
