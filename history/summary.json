@@ -1,22 +1,22 @@
 [
   {
     "name": "Vesture Boutique",
-    "url": "https://vestureboutique.dpdns/login",
-    "icon": "https://icons.duckduckgo.com/ip3/vestureboutique.dpdns.ico",
+    "url": "https://vestureboutique.dpdns.org/login",
+    "icon": "https://icons.duckduckgo.com/ip3/vestureboutique.dpdns.org.ico",
     "slug": "vesture-boutique",
-    "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "98.63%",
-    "time": 3090,
-    "timeDay": 3090,
-    "timeWeek": 3090,
-    "timeMonth": 3090,
-    "timeYear": 3090,
+    "status": "up",
+    "uptime": "61.31%",
+    "uptimeDay": "61.31%",
+    "uptimeWeek": "61.31%",
+    "uptimeMonth": "61.31%",
+    "uptimeYear": "61.31%",
+    "time": 2412,
+    "timeDay": 2412,
+    "timeWeek": 2412,
+    "timeMonth": 2412,
+    "timeYear": 2412,
     "dailyMinutesDown": {
-      "2026-03-17": 0
+      "2026-03-17": 8
     }
   }
 ]
