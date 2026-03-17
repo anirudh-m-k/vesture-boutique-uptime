@@ -4,7 +4,7 @@ repo: vesture-boutique-uptime # The name of this repository
 
 sites:
   - name: Vesture Boutique
-    url: https://vestureboutique.dpdns.org/login
+    url: https://vestureboutique.dpdns/login
 
 notifications:
   - type: discord
