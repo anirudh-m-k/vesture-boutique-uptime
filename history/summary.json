@@ -4,17 +4,19 @@
     "url": "https://vestureboutique.dpdns.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/vestureboutique.dpdns.org.ico",
     "slug": "vesture-boutique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2037,
-    "timeDay": 2037,
-    "timeWeek": 2037,
-    "timeMonth": 2037,
-    "timeYear": 2037,
-    "dailyMinutesDown": {}
+    "time": 1854,
+    "timeDay": 1854,
+    "timeWeek": 1854,
+    "timeMonth": 1854,
+    "timeYear": 1854,
+    "dailyMinutesDown": {
+      "2026-03-18": 0
+    }
   }
 ]
